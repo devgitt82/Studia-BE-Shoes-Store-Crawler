@@ -1,5 +1,5 @@
 ﻿# Spider crawler - pozyskiwanie danych ze sklepu z butami
- **Część projekt z przedmiotu Biznes Elektroniczny realizowanego na 2 roku studiów**
+ **Część projektu z przedmiotu Biznes Elektroniczny realizowanego na 2 roku studiów**
 
 **Requirements:**
 ---
