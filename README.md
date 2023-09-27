@@ -12,5 +12,5 @@
 1. Clone repo to your local host.
 2. Change directory to `/shoes/spiders`
 3. Run `scrapy crawl [spider name] -O [file name].json ` command. eg. `scrapy crawl produkty.json ` for `json` file output or
-4. Run `scrapy crawl [spider name] -O [file name].csv ` command. eg. `scrapy crawl kategorie.csv ` for `csv`` file output
+4. Run `scrapy crawl [spider name] -O [file name].csv ` command. eg. `scrapy crawl kategorie.csv ` for `csv` file output
 
