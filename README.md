@@ -1,4 +1,4 @@
-﻿# Spider crawler - data extraction from the popular shoe store
+﻿# Spider crawler for data extraction from popular shoe store.
  **Part of a shoe store project on 2nd year of studies at Gdansk University of Technology**
 
 **Requirements:**
