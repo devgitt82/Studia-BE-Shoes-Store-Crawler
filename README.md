@@ -1,5 +1,5 @@
-﻿# Spider crawler - pozyskiwanie danych ze sklepu z butami
- **Część projektu z przedmiotu Biznes Elektroniczny realizowanego na 2 roku studiów**
+﻿# Spider crawler - data extraction from the popular shoe store
+ **Part of a shboe store project on 2nd year of studies on GUT**
 
 **Requirements:**
 ---
