@@ -1,5 +1,5 @@
 ﻿# Spider crawler for data extraction from popular shoe store.
- **Part of a shoe store project on 2nd year of studies at Gdansk University of Technology**
+ **Part of a shoe store project - 2nd year of studies at Gdansk University of Technology**
 
 **Requirements:**
 ---
